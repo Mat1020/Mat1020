@@ -1,4 +1,6 @@
-## Hi there 👋
+# What's up? 👋
+
+## I'm Matías Taján. A hardware & software engineer from Maryland, United States.
 
 <!--
 **Mat1020/Mat1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
