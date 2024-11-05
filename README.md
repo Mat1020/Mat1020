@@ -2,7 +2,10 @@
 
 ## I'm Matías Taján. A hardware & software engineer from Maryland, United States.
 
-I'm quite new for computer science, I started at the beggining of 2024.
+I'm quite new for computer science, I started off with Python at the beggining of 2024.
+
+# More about me:
+I'm from Caracas, Venezuela. Thereforcem, English is not my first languge. I moved unted states 2 years ago. 
 <!--
 **Mat1020/Mat1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
