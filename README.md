@@ -5,4 +5,4 @@ I also like to do software; I like to program in my free time and make cool proj
 
 I'm always going to say yes to collaborate on a project; as long as it's not intense since I'm a young male teen, so I've school and other stuff going on.
 
-I was born on Venezuela 🇻🇪, Caracas. So, yeah, English is not my first language; it's Spanish. But don't worry, I already know a lot of English.
+I was born on Venezuela 🇻🇪, Caracas. So, yeah, English is not my first language; it's Spanish. But don't worry, I already know a lot of English!
