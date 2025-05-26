@@ -5,4 +5,4 @@ I enjoy programming in my free time, creating and developing cool projects, and 
 
 I’d be happy to collaborating and developing on your projects, and happy to help you through any of mine. 
 
-I'm a guy ("He", "His", "Him") currently in a student. I was born in Caracas, Venezuela 🇻🇪 in Souht America. 
+I'm a guy ("He", "His", "Him") currently a student. I was born in Caracas, Venezuela 🇻🇪 in Souht America. 
