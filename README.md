@@ -7,4 +7,4 @@ I enjoy programming in my free time, creating and developing cool projects, and 
 
 I'm a guy ("He", "His", "Him") currently a student. I was born in Caracas, Venezuela 🇻🇪. I know Spanish, English, and currently learning French.
 
-I’d be happy to collaborating and developing on your projects, and happy to help you through any of mine. Or really anything I can do :)
+I’d be happy to collaborating and developing on your projects, and happy to help you through any of mine--or really anywhere I can help with :)
