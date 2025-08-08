@@ -1,6 +1,6 @@
 # What's up? 👋
 
-Hi, my name is Matías (or Mati or Mat for short).
+Hi, my name is Matías (nickname Mati or Mat).
 
 I’m very passionate about Robotics Engineering and Computer Science. I love Raspberry Pi and its community, and I’m excited to be part of the community, too.
 I enjoy programming in my free time, creating and developing cool projects, and exploring software development--I’m eager to learn how to build websites and develop video games.
